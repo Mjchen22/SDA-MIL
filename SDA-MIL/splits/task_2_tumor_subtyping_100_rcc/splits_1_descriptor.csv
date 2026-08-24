@@ -1,0 +1,4 @@
+,train,val,test
+kirp_tcga,182,57,57
+kirc_tcga,310,104,104
+kich_tcga,65,22,22

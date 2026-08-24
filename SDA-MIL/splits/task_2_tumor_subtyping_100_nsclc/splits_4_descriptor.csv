@@ -1,0 +1,3 @@
+,train,val,test
+luad_tcga,333,103,103
+lusc_tcga,305,106,100
